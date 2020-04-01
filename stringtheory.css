@@ -1,0 +1,42 @@
+body{
+	background:url("https://pixelz.cc/wp-content/uploads/2017/11/earth-from-space-uhd-4k-wallpaper.jpg");
+	background-size:cover;
+
+	
+}
+h1{color:white;
+	text-align:center;
+	font-family:Lobster;
+
+}
+h2{
+	color:rgba(52, 195, 235,1);
+	
+	font-size:80px;
+	font-style: bold;
+	font-family:Liu Jian Mao Cao;
+}
+button{
+	box-sizing:50px;
+}
+
+p{
+	color:rgba(222, 235, 52,1);
+
+
+	
+	font-size:25px;
+}
+/*.jumbotron{
+	opacity:0.3;
+	margin-top:20px;
+	margin-right:50%;
+	margin-bottom:50%;
+
+}*/
+div{
+	/*border:5px solid orange;
+	width:25%;*/
+	
+
+}
